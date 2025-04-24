@@ -52,7 +52,7 @@ Visualizations Created:
 - Donut chart: Showing the count of stock age category, how long the products have been in store since last restock date.
 
  4. Data Preparation 
-Data Cleaning: (Describe cleaning steps. Example below)
+Data Cleaning: 
 - Ensured data consistency in category names.
 Data Transformation:
 - Calculated inventory value by multiplying stock quantity by unit price.
