@@ -61,6 +61,8 @@ Data Transformation:
 Data Loading: 
 The cleaned and transformed data was loaded into Power BI Desktop using the "Get Data" functionality.
 
+![](IN_Outstock.PNG) ![](IN_Stock.PNG)  ![](IN_Reorder.PNG)
+
 5. Dashboard Highlights
 - Inventory Overview: Provides a high-level summary of the inventory with key metrics.
 - Stock Analysis: Offers insights into stock levels, product value, and turnover rates.
